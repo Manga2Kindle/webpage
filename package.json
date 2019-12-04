@@ -1,0 +1,17 @@
+{
+  "name": "manga2kindle_docs",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "vuepress build src",
+    "serve": "vuepress dev src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduFdezSoy/Manga2Kindle_Docs.git"
+  },
+  "author": "Eduardo Fernandez",
+  "license": "CC-BY-NC-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/EduFdezSoy/Manga2Kindle_Docs/issues"
+  }
+}
