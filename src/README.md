@@ -11,5 +11,5 @@ features:
       details: Show all the chapters in your phone, all together.
     - title: Configurable
       details: Hide unwanted chapters, remove after upload, upload only on wifi...
-footer: Copyright © 2019-present Eduardo Fernandez
+footer: Copyright © 2019 Eduardo Fernandez
 ---
