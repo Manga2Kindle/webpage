@@ -6,7 +6,7 @@ lang: en-US
 # Frequently Asked Questions
 
 ### I'm new to the app, how can I use it?
-I sugest you to read the [Getting Started Guide](/help/guides/getting-started.md).
+I suggest you to read the [Getting Started Guide](/help/guides/getting-started.md).
 
 ### I'm sending mangas but nothing's dowloading in my Kindle!
 Check out the [Allow Receiving mangas from the app guide](/help/guides/allow-app-mail.md), maybe you are missing something.
