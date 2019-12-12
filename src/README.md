@@ -6,7 +6,7 @@ actionText: Get Started →
 actionLink: /help/guides/getting-started
 features:
     - title: Sources
-      details: Support lots of sources,including your favourite manga app.
+      details: Support lots of sources, including your favourite manga app.
     - title: Chapters
       details: Show all the chapters in your phone, all together.
     - title: Configurable
