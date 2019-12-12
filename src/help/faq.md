@@ -14,4 +14,6 @@ Check out the [Allow Receiving mangas from the app guide](/help/guides/allow-app
 ### My Kindle's email? What's that?
 That's the mail your Kindle watch to receive new documents, you can find this email in your device, check [this](/help/guides/find-my-mail.md).
 
+<br>
+
 I know this page can't solve all the problems, so if this page can't help you try [contacting](/pages/contact.md) with me!
