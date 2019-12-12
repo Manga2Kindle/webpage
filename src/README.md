@@ -13,3 +13,5 @@ features:
       details: Hide unwanted chapters, remove after upload, upload only on wifi...
 footer: Copyright © 2019 Eduardo Fernandez
 ---
+
+![screens](/assets/media/screens.png)
