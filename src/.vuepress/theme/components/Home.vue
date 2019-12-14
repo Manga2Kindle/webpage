@@ -11,7 +11,7 @@
         <a
           class="action-button"
           rel="noopener noreferrer"
-          :href="'https://play.google.com/store/apps/details?id=es.edufdezsoy.manga2kindle&hl=es'"
+          :href="'https://play.google.com/store/apps/details?id=es.edufdezsoy.manga2kindle'"
           title="Download latest release"
         >
           <font-awesome-icon icon="download" />
