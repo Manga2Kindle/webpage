@@ -5,6 +5,12 @@ lang: en-US
 
 # Frequently Asked Questions
 
+### What *can* it do?
+Manga2Kindle can send mangas from your phone to your kindle device.
+
+### What *can't* it do?
+Manga2Kindle will never download mangas for you. You'll need to download them from other apps. (Check out: [Tachiyomi](https://tachiyomi.org/))
+
 ### I'm new to the app, how can I use it?
 I suggest you to read the [Getting Started Guide](/help/guides/getting-started.md).
 
