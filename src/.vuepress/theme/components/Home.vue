@@ -41,8 +41,7 @@ import NavLink from "@parent-theme/components/NavLink.vue";
 import axios from "axios";
 
 const RELEASE_URL =
-  // TODO: this is set to last release instead of /latest (to show something during prereleases, change later the script, remove [0])
-  "https://api.github.com/repos/EduFdezSoy/Manga2Kindle/releases";
+  "https://api.github.com/repos/EduFdezSoy/Manga2Kindle/releases/latest";
 
 export default {
   components: { NavLink },
@@ -69,7 +68,7 @@ export default {
   async mounted() {
     const { data } = await axios.get(RELEASE_URL);
     // Set the values.
-    this.$data.tagName = data[0].tag_name;
+    this.$data.tagName = data.tag_name;
   }
 };
 </script>
